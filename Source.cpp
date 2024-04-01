@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout <<"Student"<<endl;
+    cout <<"Student Code Finalized"<<endl;
     return 0;
 }
